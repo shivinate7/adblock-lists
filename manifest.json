@@ -1,0 +1,103 @@
+{
+  "format": 1,
+  "version": "lists-20261107-409dc24",
+  "created": "2026-11-07T11:35:48Z",
+  "commit": "409dc248b2ddc3829296b37e9464bd5f4822122b",
+  "assets": {
+    "CONTRACT.md": {
+      "sha256": "eaa7c9c9132884c1f3fbe157a41063bf4cb64c576a9e3a0cde271a974f030753",
+      "bytes": 1785
+    },
+    "blockerList1.json.gz": {
+      "sha256": "3e732566c93f3edc85467b498d06a3a886c7ab9801446a700136612df5e7253d",
+      "bytes": 2058365
+    },
+    "blockerList2.json.gz": {
+      "sha256": "29f63b2528537355c6b47bec778d25c8b725dedf8e9a0a43e66bde481a9059fd",
+      "bytes": 2131349
+    },
+    "blockerList3.json.gz": {
+      "sha256": "6d633ae689a8382e48b6d42ecb2ac893023ecdbeb36874987050a49d551dccb4",
+      "bytes": 2045193
+    },
+    "blockerList4.json.gz": {
+      "sha256": "f4dd3cd654339271f8b17bfa8e9bb412fc615fc42ef53456966b7858711d7418",
+      "bytes": 1869828
+    },
+    "blockerList5.json.gz": {
+      "sha256": "57c9d67146c65f56d5130e3829a51cf5c5290fe3eb345bb921217712cfcdd7ab",
+      "bytes": 1842490
+    },
+    "blockerList6.json.gz": {
+      "sha256": "c1950d439c01680822e2a7113cf641f63aa724fc6f95cc3dff05d68f4f818f41",
+      "bytes": 1834998
+    },
+    "blockerList7.json.gz": {
+      "sha256": "63f8882fa74c6ab321472dc7f54e63793e0fb9f7631d08af24af1e14bdc4bdc1",
+      "bytes": 1877952
+    },
+    "blockerList8.json.gz": {
+      "sha256": "077c9f08fb8433f3d5d03e015890a024142b9abab708d43766827a720d1cd9f3",
+      "bytes": 1779834
+    },
+    "chromeSlice1.json.gz": {
+      "sha256": "5cd3f6e3bb84f0789f4bcc5ea411a9cd147b59b7736f6c8140698b5db80d555b",
+      "bytes": 649488
+    },
+    "chromeSlice10.json.gz": {
+      "sha256": "a805ad257cbd14839d78ebd2aa9f2ddb0910ab5e56fc11e423257beb6a86bc89",
+      "bytes": 659563
+    },
+    "chromeSlice2.json.gz": {
+      "sha256": "24063b58d21ea4d46c7a1ad343fa7a4751a4d752482c9dd0abe0af412292c0e2",
+      "bytes": 655819
+    },
+    "chromeSlice3.json.gz": {
+      "sha256": "a03b67d25b13e9f98da5c4957b3e4bd6b554c147ca1602ee7fe5089d8dc6f43b",
+      "bytes": 672314
+    },
+    "chromeSlice4.json.gz": {
+      "sha256": "9da55b1bf9e4f16779dede94eb0fb017d799c85a8e2154107845a7ef7b12e21a",
+      "bytes": 758991
+    },
+    "chromeSlice5.json.gz": {
+      "sha256": "79cf4c32b1ad4599aeee743b137a3363c696c608a80125bcdd7ca3fbecdff2b6",
+      "bytes": 839519
+    },
+    "chromeSlice6.json.gz": {
+      "sha256": "4468d9f03def061a0984512fe7ce510da427acefde61d9f6954920acc71b17ce",
+      "bytes": 1220234
+    },
+    "chromeSlice7.json.gz": {
+      "sha256": "e4c3f95cf821a46319b9ec24a9602a4bdcb63aa7138e20c8e0d3ce3e3fae4aff",
+      "bytes": 723849
+    },
+    "chromeSlice8.json.gz": {
+      "sha256": "f919d5e73f03af798c41be6fbb406c20cd850278885a8ae7bb14d74e98204f39",
+      "bytes": 645831
+    },
+    "chromeSlice9.json.gz": {
+      "sha256": "847c4886d6f97507a78ed795accf21123158707cdf69678e53eaedb7f5644535",
+      "bytes": 630093
+    },
+    "early-sites.json": {
+      "sha256": "aa13d08482476274a3ea374f79a7135ecff39404b86e012a99bf8af23fd9a9b8",
+      "bytes": 31
+    },
+    "strict.js": {
+      "sha256": "192e42ff44e454c2ab9ad26909fc95eaf14a7013c24add29dfa65c0e1c757c4d",
+      "bytes": 906
+    }
+  },
+  "sources": {
+    "pinned": {
+      "SafariConverterLib": {
+        "tag": "v4.3.0",
+        "commit": "7a2e93f0afa70479cc59985f332025236c3f0c39"
+      },
+      "uBlockOrigin/uAssets": "12cffef9c732d9179a96ac50b62fa69356dd4974",
+      "brave/adblock-lists": "3e63399d72dcfa19e9ac2e8ce950ed057b728847"
+    },
+    "live": "AdGuard filters 101, 2, 11, 19, 20, 21, 208 are live feeds, not pinned"
+  }
+}
